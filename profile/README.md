@@ -5,13 +5,13 @@
 <h1 align="center">Ovra</h1>
 
 <p align="center">
-  A fast, private web browser for Apple devices.<br>
-  No accounts. No tracking. Just the web.
+  A fast web browser for Mac, iPhone and iPad.<br>
+  Sign in once and everything follows you.
 </p>
 
 ---
 
-**[Ovra Browser](https://github.com/OvraBrowser/Ovra)** is a native macOS browser built with Swift and WebKit. It blocks ads and trackers out of the box, resists fingerprinting and keeps your history on your Mac. An iPhone and iPad version with iCloud sync is on the way.
+**[Ovra Browser](https://github.com/OvraBrowser/Ovra)** is a native browser built with Swift and WebKit. It blocks ads and trackers out of the box and resists fingerprinting. Ovra accounts are coming: sign in on your Mac, iPhone and iPad and your tabs, bookmarks, history and settings stay in sync.
 
 - **Download:** [latest release](https://github.com/OvraBrowser/Ovra/releases/latest)
 - **Code:** [OvraBrowser/Ovra](https://github.com/OvraBrowser/Ovra)
